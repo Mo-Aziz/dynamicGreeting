@@ -1,2 +1,0 @@
-# dynamicGreeting
-Created with CodeSandbox
